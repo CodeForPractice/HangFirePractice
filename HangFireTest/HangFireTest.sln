@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFireTest", "HangFireTest\HangFireTest.csproj", "{3A67491D-8D4D-477D-8A1E-B975447AD27E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSchedule.Monitor", "TaskSchedule.Monitor\TaskSchedule.Monitor.csproj", "{705803FD-79F0-4E1A-9C3D-0E4730EB9B13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3A67491D-8D4D-477D-8A1E-B975447AD27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A67491D-8D4D-477D-8A1E-B975447AD27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A67491D-8D4D-477D-8A1E-B975447AD27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705803FD-79F0-4E1A-9C3D-0E4730EB9B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705803FD-79F0-4E1A-9C3D-0E4730EB9B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705803FD-79F0-4E1A-9C3D-0E4730EB9B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705803FD-79F0-4E1A-9C3D-0E4730EB9B13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

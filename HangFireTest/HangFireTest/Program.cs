@@ -1,13 +1,14 @@
 ﻿using Hangfire;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace HangFireTest
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -25,12 +26,14 @@ namespace HangFireTest
             using (var server = new BackgroundJobServer())
             {
                 BackgroundJob.Enqueue(() => Console.WriteLine("Fire-and-forget"));
-                RecurringJob.AddOrUpdate(() => Console.WriteLine("Daily Job"), Cron.Minutely);
+                RecurringJob.AddOrUpdate(() => Class1.NameTest(), Cron.Minutely);
 
                 Console.WriteLine("Hangfire Server started. Press any key to exit...");
                 Console.ReadKey();
 
             }
         }
+
+        
     }
 }

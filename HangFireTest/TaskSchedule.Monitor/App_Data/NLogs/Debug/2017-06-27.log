@@ -1,0 +1,528 @@
+20:58:19.0157 Background process 'BackgroundProcessingServer' started.
+20:58:19.2739 Background process 'ServerHeartbeat' started.
+20:58:19.2739 Background process 'ServerWatchdog' started.
+20:58:19.2969 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+20:58:19.2999 Removing outdated records from the 'AggregatedCounter' table...
+20:58:19.2999 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+20:58:19.2999 Aggregating records in 'Counter' table...
+20:58:19.3179 Background process 'Worker #f358a774' started.
+20:58:19.3309 Background process 'Worker #f4e41180' started.
+20:58:19.3309 Removing outdated records from the 'Job' table...
+20:58:19.3549 Background process 'Worker #fa655084' started.
+20:58:19.3670 Background process 'Worker #170e1fd9' started.
+20:58:19.3670 Removing outdated records from the 'List' table...
+20:58:19.3670 Background process 'Worker #11f89015' started.
+20:58:19.3770 Background process 'Worker #e8a3c989' started.
+20:58:19.3770 Background process 'Worker #7003edc9' started.
+20:58:19.3770 Background process 'Worker #1f06c3be' started.
+20:58:19.3770 Background process 'Worker #1007a9d3' started.
+20:58:19.3940 Background process 'Worker #467e3285' started.
+20:58:19.3940 Background process 'Worker #37bd7d1b' started.
+20:58:19.3940 Background process 'Worker #63a32313' started.
+20:58:19.3940 Removing outdated records from the 'Set' table...
+20:58:19.3940 Background process 'Worker #cb121097' started.
+20:58:19.3940 Removing outdated records from the 'Hash' table...
+20:58:19.3940 Background process 'Worker #302d9216' started.
+20:58:19.3940 Background process 'Worker #74cdd376' started.
+20:58:19.4100 Background process 'Worker #31beedac' started.
+20:58:19.4100 Background process 'Worker #00dbdb90' started.
+20:58:19.4100 Background process 'Worker #36b86479' started.
+20:58:19.4100 Background process 'Worker #88666246' started.
+20:58:19.4100 Background process 'Worker #58e12d64' started.
+20:58:19.4100 Background process 'DelayedJobScheduler' started.
+20:58:19.4230 Background process 'RecurringJobScheduler' started.
+21:01:10.9660 Background process 'DelayedJobScheduler' stopped.
+21:01:10.9700 Background process 'ServerWatchdog' stopped.
+21:01:10.9660 Background process 'RecurringJobScheduler' stopped.
+21:01:10.9660 Background process 'Worker #88666246' stopped.
+21:01:10.9660 Background process 'Worker #00dbdb90' stopped.
+21:01:10.9660 Background process 'Worker #31beedac' stopped.
+21:01:10.9700 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+21:01:10.9660 Background process 'Worker #58e12d64' stopped.
+21:01:10.9660 Background process 'Worker #f4e41180' stopped.
+21:01:10.9700 Background process 'Worker #cb121097' stopped.
+21:01:10.9700 Background process 'Worker #7003edc9' stopped.
+21:01:10.9700 Background process 'Worker #fa655084' stopped.
+21:01:10.9700 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+21:01:10.9660 Background process 'Worker #63a32313' stopped.
+21:01:10.9660 Background process 'Worker #74cdd376' stopped.
+21:01:10.9700 Background process 'Worker #1007a9d3' stopped.
+21:01:10.9700 Background process 'Worker #e8a3c989' stopped.
+21:01:10.9660 Background process 'Worker #36b86479' stopped.
+21:01:10.9660 Background process 'Worker #37bd7d1b' stopped.
+21:01:10.9700 Background process 'Worker #170e1fd9' stopped.
+21:01:10.9700 Background process 'Worker #11f89015' stopped.
+21:01:10.9660 Background process 'Worker #1f06c3be' stopped.
+21:01:10.9700 Background process 'ServerHeartbeat' stopped.
+21:01:10.9700 Background process 'Worker #467e3285' stopped.
+21:01:10.9660 Background process 'Worker #302d9216' stopped.
+21:01:24.2647 Background process 'BackgroundProcessingServer' started.
+21:01:24.4928 Background process 'ServerHeartbeat' started.
+21:01:24.5048 Background process 'ServerWatchdog' started.
+21:01:24.5258 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+21:01:24.5258 Removing outdated records from the 'AggregatedCounter' table...
+21:01:24.5328 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+21:01:24.5328 Aggregating records in 'Counter' table...
+21:01:24.5328 Background process 'Worker #68b320eb' started.
+21:01:24.5549 Background process 'Worker #c61d4496' started.
+21:01:24.5679 Removing outdated records from the 'Job' table...
+21:01:24.5679 Background process 'Worker #4ec6945c' started.
+21:01:24.5679 Background process 'Worker #3e8b7fbf' started.
+21:01:24.5799 Removing outdated records from the 'List' table...
+21:01:24.5799 Background process 'Worker #78f1e37b' started.
+21:01:24.5799 Removing outdated records from the 'Set' table...
+21:01:24.5799 Background process 'Worker #87663412' started.
+21:01:24.5799 Background process 'Worker #a72ed850' started.
+21:01:24.5979 Background process 'Worker #c9208ad6' started.
+21:01:24.5979 Background process 'Worker #ed277d5c' started.
+21:01:24.5979 Background process 'Worker #6a4e4ae6' started.
+21:01:24.5979 Removing outdated records from the 'Hash' table...
+21:01:24.5979 Background process 'Worker #3bd19178' started.
+21:01:24.5979 Background process 'Worker #3670d728' started.
+21:01:24.6109 Background process 'Worker #5030799e' started.
+21:01:24.6109 Background process 'Worker #0255c155' started.
+21:01:24.6109 Background process 'Worker #6795b726' started.
+21:01:24.6109 Background process 'Worker #19791abf' started.
+21:01:24.6109 Background process 'Worker #decd25fc' started.
+21:01:24.6109 Background process 'Worker #7e8622f6' started.
+21:01:24.6109 Background process 'Worker #f160dfef' started.
+21:01:24.6109 Background process 'Worker #36a12c3c' started.
+21:01:24.6109 Background process 'DelayedJobScheduler' started.
+21:01:24.6109 Background process 'RecurringJobScheduler' started.
+21:02:32.9934 Background process 'DelayedJobScheduler' stopped.
+21:02:32.9934 Background process 'Worker #36a12c3c' stopped.
+21:02:33.0014 Background process 'RecurringJobScheduler' stopped.
+21:02:32.9934 Background process 'Worker #f160dfef' stopped.
+21:02:32.9934 Background process 'Worker #decd25fc' stopped.
+21:02:32.9934 Background process 'Worker #19791abf' stopped.
+21:02:32.9934 Background process 'Worker #3670d728' stopped.
+21:02:32.9934 Background process 'Worker #6a4e4ae6' stopped.
+21:02:32.9934 Background process 'Worker #a72ed850' stopped.
+21:02:32.9934 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+21:02:32.9934 Background process 'Worker #c61d4496' stopped.
+21:02:32.9934 Background process 'Worker #5030799e' stopped.
+21:02:32.9934 Background process 'Worker #78f1e37b' stopped.
+21:02:32.9934 Background process 'Worker #68b320eb' stopped.
+21:02:32.9934 Background process 'ServerHeartbeat' stopped.
+21:02:32.9934 Background process 'ServerWatchdog' stopped.
+21:02:32.9934 Background process 'Worker #7e8622f6' stopped.
+21:02:32.9934 Background process 'Worker #c9208ad6' stopped.
+21:02:32.9934 Background process 'Worker #3bd19178' stopped.
+21:02:32.9934 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+21:02:32.9934 Background process 'Worker #ed277d5c' stopped.
+21:02:32.9934 Background process 'Worker #6795b726' stopped.
+21:02:32.9934 Background process 'Worker #0255c155' stopped.
+21:02:32.9934 Background process 'Worker #87663412' stopped.
+21:02:32.9934 Background process 'Worker #3e8b7fbf' stopped.
+21:04:42.4750 Background process 'BackgroundProcessingServer' started.
+21:04:42.5110 Background process 'ServerHeartbeat' started.
+21:04:42.5110 Background process 'ServerWatchdog' started.
+21:04:42.5180 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+21:04:42.5180 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+21:04:42.5180 Removing outdated records from the 'AggregatedCounter' table...
+21:04:42.5180 Aggregating records in 'Counter' table...
+21:04:42.5180 Background process 'Worker #8e28aac9' started.
+21:04:42.5370 Background process 'Worker #c5a94531' started.
+21:04:42.5370 Background process 'Worker #707924cf' started.
+21:04:42.5370 Removing outdated records from the 'Job' table...
+21:04:42.5370 Background process 'Worker #41dba098' started.
+21:04:42.5520 Background process 'Worker #7b7c4faa' started.
+21:04:42.5520 Background process 'Worker #5478bd05' started.
+21:04:42.5520 Background process 'Worker #40d4eed4' started.
+21:04:42.5710 Background process 'Worker #b49f19c8' started.
+21:04:42.5710 Background process 'Worker #fc509406' started.
+21:04:42.5891 Background process 'Worker #a70c9bf6' started.
+21:04:42.5971 Background process 'Worker #f1a588c9' started.
+21:04:42.6111 Background process 'Worker #d3d67fc4' started.
+21:04:42.6111 Background process 'Worker #ede94252' started.
+21:04:42.6111 Background process 'Worker #028a7c17' started.
+21:04:42.6271 Background process 'Worker #ee555968' started.
+21:04:42.6271 Background process 'Worker #0e8d824b' started.
+21:04:42.6451 Background process 'Worker #fb25fd20' started.
+21:04:42.6451 Removing outdated records from the 'List' table...
+21:04:42.6451 Background process 'Worker #c714155e' started.
+21:04:42.6451 Background process 'Worker #47aa4e86' started.
+21:04:42.6451 Background process 'Worker #948ccc51' started.
+21:04:42.6451 Background process 'DelayedJobScheduler' started.
+21:04:42.6591 Background process 'RecurringJobScheduler' started.
+21:04:42.7091 Removing outdated records from the 'Set' table...
+21:04:42.7712 Removing outdated records from the 'Hash' table...
+21:08:00.2832 Background process 'ServerHeartbeat' stopped.
+21:08:00.2832 Background process 'ServerWatchdog' stopped.
+21:08:00.2832 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+21:08:00.2832 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+21:08:00.2832 Background process 'DelayedJobScheduler' stopped.
+21:08:00.3402 Background process 'RecurringJobScheduler' stopped.
+21:08:14.2187 Background process 'BackgroundProcessingServer' started.
+21:08:14.4179 Background process 'ServerHeartbeat' started.
+21:08:14.4239 Background process 'ServerWatchdog' started.
+21:08:14.4239 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+21:08:14.4239 Removing outdated records from the 'AggregatedCounter' table...
+21:08:14.4239 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+21:08:14.4239 Aggregating records in 'Counter' table...
+21:08:14.4239 Background process 'Worker #4c5c30cb' started.
+21:08:14.4419 Background process 'Worker #1ddc735c' started.
+21:08:14.4419 Background process 'Worker #87bb774f' started.
+21:08:14.4599 Background process 'Worker #fb15698c' started.
+21:08:14.4599 Background process 'Worker #68bcb8e7' started.
+21:08:14.4779 Background process 'Worker #c4687f1e' started.
+21:08:14.4889 Background process 'Worker #d238c947' started.
+21:08:14.5049 Background process 'Worker #0881c188' started.
+21:08:14.5049 Background process 'Worker #c388bf7e' started.
+21:08:14.5049 Removing outdated records from the 'Job' table...
+21:08:14.5250 Background process 'Worker #c9986800' started.
+21:08:14.5250 Background process 'Worker #70d4dae2' started.
+21:08:14.5580 Background process 'Worker #53a37ac6' started.
+21:08:14.5660 Background process 'Worker #63d759b9' started.
+21:08:14.5660 Background process 'Worker #7d393533' started.
+21:08:14.5660 Background process 'Worker #6aedbd0e' started.
+21:08:14.5660 Background process 'Worker #19e42444' started.
+21:08:14.5660 Background process 'Worker #c8d1c8b7' started.
+21:08:14.5660 Background process 'Worker #1a0b2761' started.
+21:08:14.5800 Background process 'Worker #504347da' started.
+21:08:14.5800 Background process 'Worker #d955a971' started.
+21:08:14.5800 Background process 'DelayedJobScheduler' started.
+21:08:14.5800 Background process 'RecurringJobScheduler' started.
+21:08:14.6090 Removing outdated records from the 'List' table...
+21:08:14.6821 Removing outdated records from the 'Set' table...
+21:08:14.7251 Removing outdated records from the 'Hash' table...
+21:13:14.5175 Aggregating records in 'Counter' table...
+21:18:14.7828 Aggregating records in 'Counter' table...
+21:23:14.7979 Aggregating records in 'Counter' table...
+21:28:14.8040 Aggregating records in 'Counter' table...
+21:33:14.8112 Aggregating records in 'Counter' table...
+21:38:14.7482 Removing outdated records from the 'AggregatedCounter' table...
+21:38:14.7482 Removing outdated records from the 'Job' table...
+21:38:14.7802 Removing outdated records from the 'List' table...
+21:38:14.7802 Removing outdated records from the 'Set' table...
+21:38:14.7832 Removing outdated records from the 'Hash' table...
+21:38:14.8182 Aggregating records in 'Counter' table...
+21:43:14.8208 Aggregating records in 'Counter' table...
+21:48:14.8863 Aggregating records in 'Counter' table...
+21:53:14.8951 Aggregating records in 'Counter' table...
+21:58:14.9673 Aggregating records in 'Counter' table...
+22:02:40.9097 Background process 'DelayedJobScheduler' stopped.
+22:02:40.9097 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+22:02:40.9097 Background process 'ServerHeartbeat' stopped.
+22:02:40.9097 Background process 'ServerWatchdog' stopped.
+22:02:40.9097 Background process 'RecurringJobScheduler' stopped.
+22:02:40.9097 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+22:03:04.5230 Background process 'BackgroundProcessingServer' started.
+22:03:04.7562 Background process 'ServerHeartbeat' started.
+22:03:04.7562 Background process 'ServerWatchdog' started.
+22:03:04.7712 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+22:03:04.7712 Removing outdated records from the 'AggregatedCounter' table...
+22:03:04.7712 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+22:03:04.7712 Aggregating records in 'Counter' table...
+22:03:04.7872 Background process 'Worker #e75b3a7b' started.
+22:03:04.7992 Background process 'Worker #69f0092e' started.
+22:03:04.7992 Background process 'Worker #84b06a47' started.
+22:03:04.7992 Removing outdated records from the 'Job' table...
+22:03:04.7992 Background process 'Worker #9fe8a3f2' started.
+22:03:04.8352 Background process 'Worker #997188d2' started.
+22:03:04.8352 Background process 'Worker #9d9514f8' started.
+22:03:04.8452 Background process 'Worker #db1ca95c' started.
+22:03:04.8452 Background process 'Worker #7fbe264c' started.
+22:03:04.8452 Background process 'Worker #51f08679' started.
+22:03:04.8452 Background process 'Worker #1ccfdb31' started.
+22:03:04.8452 Background process 'Worker #61015c37' started.
+22:03:04.8452 Background process 'Worker #b91bb683' started.
+22:03:04.8452 Background process 'Worker #e2ecbcea' started.
+22:03:04.8452 Background process 'Worker #3bf903e2' started.
+22:03:04.8602 Background process 'Worker #5a6c6f78' started.
+22:03:04.8602 Background process 'Worker #74bb54e8' started.
+22:03:04.8602 Background process 'Worker #0d80e5d4' started.
+22:03:04.8602 Background process 'Worker #f42a3cb6' started.
+22:03:04.8602 Background process 'Worker #fca4cec5' started.
+22:03:04.8602 Background process 'Worker #2ccb3b87' started.
+22:03:04.8602 Background process 'DelayedJobScheduler' started.
+22:03:04.8602 Background process 'RecurringJobScheduler' started.
+22:03:04.8602 Removing outdated records from the 'List' table...
+22:03:04.9503 Removing outdated records from the 'Set' table...
+22:03:05.0939 Removing outdated records from the 'Hash' table...
+22:05:12.5722 Background process 'Worker #f42a3cb6' stopped.
+22:05:12.5722 Background process 'RecurringJobScheduler' stopped.
+22:05:12.5722 Background process 'Worker #0d80e5d4' stopped.
+22:05:12.5792 Background process 'Worker #7fbe264c' stopped.
+22:05:12.5722 Background process 'Worker #9fe8a3f2' stopped.
+22:05:12.5722 Background process 'Worker #5a6c6f78' stopped.
+22:05:12.5722 Background process 'Worker #69f0092e' stopped.
+22:05:12.5722 Background process 'Worker #9d9514f8' stopped.
+22:05:12.5722 Background process 'Worker #84b06a47' stopped.
+22:05:12.5722 Background process 'Worker #51f08679' stopped.
+22:05:12.5722 Background process 'Worker #1ccfdb31' stopped.
+22:05:12.5722 Background process 'ServerHeartbeat' stopped.
+22:05:12.5792 Background process 'ServerWatchdog' stopped.
+22:05:12.5722 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+22:05:12.5722 Background process 'Worker #fca4cec5' stopped.
+22:05:12.5722 Background process 'Worker #db1ca95c' stopped.
+22:05:12.5722 Background process 'Worker #3bf903e2' stopped.
+22:05:12.5722 Background process 'Worker #2ccb3b87' stopped.
+22:05:12.5722 Background process 'Worker #e75b3a7b' stopped.
+22:05:12.5722 Background process 'Worker #61015c37' stopped.
+22:05:12.5722 Background process 'Worker #74bb54e8' stopped.
+22:05:12.5722 Background process 'Worker #b91bb683' stopped.
+22:05:12.5722 Background process 'Worker #e2ecbcea' stopped.
+22:05:12.5722 Background process 'Worker #997188d2' stopped.
+22:05:12.5722 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+22:05:12.5722 Background process 'DelayedJobScheduler' stopped.
+22:05:12.6643 Background process 'BackgroundProcessingServer' stopped.
+22:05:27.5801 Background process 'BackgroundProcessingServer' started.
+22:05:27.6361 Background process 'ServerHeartbeat' started.
+22:05:27.6361 Background process 'ServerWatchdog' started.
+22:05:27.6451 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+22:05:27.6451 Removing outdated records from the 'AggregatedCounter' table...
+22:05:27.6451 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+22:05:27.6451 Aggregating records in 'Counter' table...
+22:05:27.6631 Background process 'Worker #e5ca7b8f' started.
+22:05:27.6751 Background process 'Worker #34646b95' started.
+22:05:27.6751 Background process 'Worker #8ac3d8f6' started.
+22:05:27.6751 Removing outdated records from the 'Job' table...
+22:05:27.6751 Background process 'Worker #656bd241' started.
+22:05:27.6961 Background process 'Worker #d2b071b9' started.
+22:05:27.7071 Background process 'Worker #34902322' started.
+22:05:27.7232 Background process 'Worker #47cc7b5f' started.
+22:05:27.7232 Background process 'Worker #9360ea66' started.
+22:05:27.7422 Background process 'Worker #63e395a9' started.
+22:05:27.7422 Removing outdated records from the 'List' table...
+22:05:27.7422 Background process 'Worker #37371ca3' started.
+22:05:27.7422 Background process 'Worker #d941e91e' started.
+22:05:27.7512 Background process 'Worker #15720253' started.
+22:05:27.7512 Background process 'Worker #b333fa04' started.
+22:05:27.7512 Background process 'Worker #75d6b0d6' started.
+22:05:27.7512 Removing outdated records from the 'Set' table...
+22:05:27.7512 Background process 'Worker #9a51e983' started.
+22:05:27.7512 Background process 'Worker #af95509f' started.
+22:05:27.7732 Removing outdated records from the 'Hash' table...
+22:05:27.7732 Background process 'Worker #2a767376' started.
+22:05:27.7732 Background process 'Worker #90356c71' started.
+22:05:27.7822 Background process 'Worker #210635a6' started.
+22:05:27.7822 Background process 'Worker #10b17450' started.
+22:05:27.7822 Background process 'DelayedJobScheduler' started.
+22:05:27.8032 Background process 'RecurringJobScheduler' started.
+22:10:27.6850 Aggregating records in 'Counter' table...
+22:15:27.7243 Aggregating records in 'Counter' table...
+22:20:27.7271 Aggregating records in 'Counter' table...
+22:25:27.7828 Aggregating records in 'Counter' table...
+22:29:12.7145 Error occurred during execution of 'RecurringJobScheduler' process. Execution will be retried (attempt #1) in 00:00:01 seconds.
+22:29:12.7145 Error occurred during execution of 'DelayedJobScheduler' process. Execution will be retried (attempt #1) in 00:00:01 seconds.
+22:29:25.2451 Background process 'ServerHeartbeat' stopped.
+22:29:25.2451 Background process 'RecurringJobScheduler' stopped.
+22:29:25.2451 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+22:29:25.2451 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+22:29:25.2451 Background process 'ServerWatchdog' stopped.
+22:30:39.5781 Background process 'BackgroundProcessingServer' started.
+22:30:39.7491 Background process 'ServerHeartbeat' started.
+22:30:39.7491 Background process 'ServerWatchdog' started.
+22:30:39.7531 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+22:30:39.7531 Removing outdated records from the 'AggregatedCounter' table...
+22:30:39.7531 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+22:30:39.7531 Background process 'Worker #2385481f' started.
+22:30:39.7531 Aggregating records in 'Counter' table...
+22:30:39.7531 Background process 'Worker #2b9a55f4' started.
+22:30:39.7531 Background process 'Worker #23079dc0' started.
+22:30:39.7682 Background process 'Worker #7a690fcd' started.
+22:30:39.7682 Background process 'Worker #982d62cb' started.
+22:30:39.7682 Background process 'Worker #770d9e5f' started.
+22:30:39.7682 Background process 'Worker #a3d7f1d2' started.
+22:30:39.7682 Background process 'Worker #b30d66cf' started.
+22:30:39.7682 Background process 'Worker #e56125f6' started.
+22:30:39.7842 Background process 'Worker #481f61eb' started.
+22:30:39.7842 Background process 'Worker #b773fcba' started.
+22:30:39.7842 Background process 'Worker #d48aacb7' started.
+22:30:39.7842 Background process 'Worker #4cd8ea4a' started.
+22:30:39.7842 Background process 'Worker #fe9fa65f' started.
+22:30:39.8012 Background process 'Worker #ce11be87' started.
+22:30:39.8012 Background process 'Worker #45be2706' started.
+22:30:39.8012 Background process 'Worker #74c86267' started.
+22:30:39.8012 Removing outdated records from the 'Job' table...
+22:30:39.8012 Background process 'Worker #43927e24' started.
+22:30:39.8152 Background process 'Worker #694bc6a5' started.
+22:30:39.8152 Background process 'Worker #5c4f8ab1' started.
+22:30:39.8152 Background process 'DelayedJobScheduler' started.
+22:30:39.8152 Background process 'RecurringJobScheduler' started.
+22:30:39.8872 Removing outdated records from the 'List' table...
+22:30:39.8872 Removing outdated records from the 'Set' table...
+22:30:39.8932 Removing outdated records from the 'Hash' table...
+22:31:24.8036 Background process 'DelayedJobScheduler' stopped.
+22:31:24.8036 Background process 'Worker #43927e24' stopped.
+22:31:24.8036 Background process 'Worker #694bc6a5' stopped.
+22:31:24.8036 Background process 'Worker #fe9fa65f' stopped.
+22:31:24.8036 Background process 'Worker #ce11be87' stopped.
+22:31:24.8036 Background process 'Worker #23079dc0' stopped.
+22:31:24.8036 Background process 'Worker #2385481f' stopped.
+22:31:24.8036 Background process 'Worker #7a690fcd' stopped.
+22:31:24.8036 Background process 'ServerHeartbeat' stopped.
+22:31:24.8036 Background process 'RecurringJobScheduler' stopped.
+22:31:24.8036 Background process 'Worker #74c86267' stopped.
+22:31:24.8036 Background process 'Worker #770d9e5f' stopped.
+22:31:24.8036 Background process 'Worker #2b9a55f4' stopped.
+22:31:24.8036 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+22:31:24.8036 Background process 'Worker #a3d7f1d2' stopped.
+22:31:24.8036 Background process 'Worker #45be2706' stopped.
+22:31:24.8036 Background process 'Worker #982d62cb' stopped.
+22:31:24.8036 Background process 'ServerWatchdog' stopped.
+22:31:24.8036 Background process 'Worker #5c4f8ab1' stopped.
+22:31:24.8036 Background process 'Worker #4cd8ea4a' stopped.
+22:31:24.8036 Background process 'Worker #d48aacb7' stopped.
+22:31:24.8036 Background process 'Worker #481f61eb' stopped.
+22:31:24.8036 Background process 'Worker #e56125f6' stopped.
+22:31:24.8036 Background process 'Worker #b773fcba' stopped.
+22:31:24.8036 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+22:31:24.8036 Background process 'Worker #b30d66cf' stopped.
+22:31:24.8346 Background process 'BackgroundProcessingServer' stopped.
+22:42:45.0223 Background process 'BackgroundProcessingServer' started.
+22:42:45.0894 Background process 'ServerHeartbeat' started.
+22:42:45.0894 Background process 'ServerWatchdog' started.
+22:42:45.0894 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+22:42:45.0974 Removing outdated records from the 'AggregatedCounter' table...
+22:42:45.0974 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+22:42:45.0974 Aggregating records in 'Counter' table...
+22:42:45.0974 Background process 'Worker #9fcffceb' started.
+22:42:45.1104 Background process 'Worker #309a3b5e' started.
+22:42:45.1104 Background process 'Worker #7a70cdb8' started.
+22:42:45.1104 Background process 'Worker #a21e06fc' started.
+22:42:45.1104 Background process 'Worker #b249599c' started.
+22:42:45.1104 Background process 'Worker #b416e972' started.
+22:42:45.1324 Background process 'Worker #6c9f5f4e' started.
+22:42:45.1324 Background process 'Worker #34850262' started.
+22:42:45.1434 Removing outdated records from the 'Job' table...
+22:42:45.1434 Background process 'Worker #ea1d8c93' started.
+22:42:45.1434 Background process 'Worker #415ff00c' started.
+22:42:45.1754 Background process 'Worker #e52d255d' started.
+22:42:45.1754 Background process 'Worker #5348650a' started.
+22:42:45.1754 Background process 'Worker #3056a0ed' started.
+22:42:45.1914 Background process 'Worker #c9f6430d' started.
+22:42:45.1914 Background process 'Worker #595ee16d' started.
+22:42:45.1914 Background process 'Worker #0bc30e72' started.
+22:42:45.2044 Background process 'Worker #9d2070e3' started.
+22:42:45.2044 Removing outdated records from the 'List' table...
+22:42:45.2044 Background process 'Worker #5874d41a' started.
+22:42:45.2044 Background process 'Worker #eadc9cb8' started.
+22:42:45.2044 Background process 'Worker #35748679' started.
+22:42:45.2044 Removing outdated records from the 'Set' table...
+22:42:45.2044 Background process 'DelayedJobScheduler' started.
+22:42:45.2225 Background process 'RecurringJobScheduler' started.
+22:42:45.2225 Removing outdated records from the 'Hash' table...
+22:46:45.9052 Background process 'RecurringJobScheduler' stopped.
+22:46:45.9052 Background process 'Worker #b249599c' stopped.
+22:46:45.9052 Background process 'Worker #9fcffceb' stopped.
+22:46:45.9052 Background process 'DelayedJobScheduler' stopped.
+22:46:45.9052 Background process 'Worker #5874d41a' stopped.
+22:46:45.9072 Background process 'Worker #c9f6430d' stopped.
+22:46:45.9072 Background process 'Worker #0bc30e72' stopped.
+22:46:45.9072 Background process 'Worker #309a3b5e' stopped.
+22:46:45.9072 Background process 'Worker #a21e06fc' stopped.
+22:46:45.9072 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+22:46:45.9072 Background process 'Worker #34850262' stopped.
+22:46:45.9052 Background process 'Worker #5348650a' stopped.
+22:46:45.9072 Background process 'Worker #595ee16d' stopped.
+22:46:45.9072 Background process 'Worker #7a70cdb8' stopped.
+22:46:45.9072 Background process 'Worker #ea1d8c93' stopped.
+22:46:45.9072 Background process 'Worker #6c9f5f4e' stopped.
+22:46:45.9072 Background process 'Worker #415ff00c' stopped.
+22:46:45.9072 Background process 'Worker #b416e972' stopped.
+22:46:45.9072 Background process 'ServerWatchdog' stopped.
+22:46:45.9052 Background process 'Worker #35748679' stopped.
+22:46:45.9072 Background process 'Worker #3056a0ed' stopped.
+22:46:45.9072 Background process 'ServerHeartbeat' stopped.
+22:46:45.9072 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+22:46:45.9072 Background process 'Worker #e52d255d' stopped.
+22:46:45.9072 Background process 'Worker #eadc9cb8' stopped.
+22:46:45.9072 Background process 'Worker #9d2070e3' stopped.
+22:46:45.9643 Background process 'BackgroundProcessingServer' stopped.
+22:47:28.1853 Background process 'BackgroundProcessingServer' started.
+22:47:28.3834 Background process 'ServerHeartbeat' started.
+22:47:28.3834 Background process 'ServerWatchdog' started.
+22:47:28.3834 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+22:47:28.3934 Removing outdated records from the 'AggregatedCounter' table...
+22:47:28.3934 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+22:47:28.3934 Aggregating records in 'Counter' table...
+22:47:28.3934 Background process 'Worker #69dae945' started.
+22:47:28.3934 Background process 'Worker #ee80f123' started.
+22:47:28.4144 Background process 'Worker #4edaff46' started.
+22:47:28.4144 Background process 'Worker #1df80b65' started.
+22:47:28.4144 Removing outdated records from the 'Job' table...
+22:47:28.4244 Background process 'Worker #7df0a941' started.
+22:47:28.4244 Background process 'Worker #da38d677' started.
+22:47:28.4244 Background process 'Worker #526ed716' started.
+22:47:28.4244 Background process 'Worker #65490419' started.
+22:47:28.4434 Background process 'Worker #afe27d49' started.
+22:47:28.4434 Background process 'Worker #e32f2ef0' started.
+22:47:28.4434 Background process 'Worker #9905d3c2' started.
+22:47:28.4434 Removing outdated records from the 'List' table...
+22:47:28.4544 Background process 'Worker #f8f7a913' started.
+22:47:28.4544 Background process 'Worker #4cc6bb91' started.
+22:47:28.4544 Removing outdated records from the 'Set' table...
+22:47:28.4544 Background process 'Worker #bc460482' started.
+22:47:28.4544 Background process 'Worker #29bc7709' started.
+22:47:28.4544 Removing outdated records from the 'Hash' table...
+22:47:28.4544 Background process 'Worker #7d250e3c' started.
+22:47:28.4714 Background process 'Worker #7b78e1d0' started.
+22:47:28.4714 Background process 'Worker #5e3747e9' started.
+22:47:28.4714 Background process 'Worker #36bea7d2' started.
+22:47:28.4714 Background process 'Worker #18c56e56' started.
+22:47:28.4714 Background process 'DelayedJobScheduler' started.
+22:47:28.4855 Background process 'RecurringJobScheduler' started.
+22:47:43.8964 Background process 'DelayedJobScheduler' stopped.
+22:47:43.9074 Background process 'Worker #18c56e56' stopped.
+22:47:43.8964 Background process 'RecurringJobScheduler' stopped.
+22:47:43.8964 Background process 'Worker #36bea7d2' stopped.
+22:47:43.8964 Background process 'Worker #7b78e1d0' stopped.
+22:47:43.8964 Background process 'Worker #bc460482' stopped.
+22:47:43.8964 Background process 'Worker #4cc6bb91' stopped.
+22:47:43.8964 Background process 'Worker #69dae945' stopped.
+22:47:43.9244 Background process 'Worker #7df0a941' stopped.
+22:47:43.8964 Background process 'Worker #ee80f123' stopped.
+22:47:43.8964 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+22:47:43.9074 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+22:47:43.9074 Background process 'ServerHeartbeat' stopped.
+22:47:43.8964 Background process 'Worker #29bc7709' stopped.
+22:47:43.8964 Background process 'Worker #9905d3c2' stopped.
+22:47:43.8964 Background process 'Worker #65490419' stopped.
+22:47:43.9074 Background process 'ServerWatchdog' stopped.
+22:47:43.8964 Background process 'Worker #f8f7a913' stopped.
+22:47:43.8964 Background process 'Worker #afe27d49' stopped.
+22:47:43.8964 Background process 'Worker #5e3747e9' stopped.
+22:47:43.8964 Background process 'Worker #526ed716' stopped.
+22:47:43.8964 Background process 'Worker #1df80b65' stopped.
+22:47:43.8964 Background process 'Worker #4edaff46' stopped.
+22:47:43.8964 Background process 'Worker #e32f2ef0' stopped.
+22:47:43.8964 Background process 'Worker #da38d677' stopped.
+22:47:43.8964 Background process 'Worker #7d250e3c' stopped.
+22:47:43.9454 Background process 'BackgroundProcessingServer' stopped.
+22:56:30.0529 Background process 'BackgroundProcessingServer' started.
+22:56:30.2791 Background process 'ServerHeartbeat' started.
+22:56:30.2791 Background process 'ServerWatchdog' started.
+22:56:30.2861 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+22:56:30.2861 Removing outdated records from the 'AggregatedCounter' table...
+22:56:30.2861 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+22:56:30.2861 Aggregating records in 'Counter' table...
+22:56:30.2991 Background process 'Worker #c4300a63' started.
+22:56:30.2991 Background process 'Worker #0f2d61f0' started.
+22:56:30.2991 Removing outdated records from the 'Job' table...
+22:56:30.3161 Background process 'Worker #f3987ced' started.
+22:56:30.3161 Background process 'Worker #b1caf53d' started.
+22:56:30.3161 Background process 'Worker #de3cd9ce' started.
+22:56:30.3311 Background process 'Worker #88a8470a' started.
+22:56:30.3311 Removing outdated records from the 'List' table...
+22:56:30.3311 Background process 'Worker #3a7f261d' started.
+22:56:30.3311 Background process 'Worker #1db20e2d' started.
+22:56:30.3311 Background process 'Worker #bfcbd9f6' started.
+22:56:30.3531 Background process 'Worker #30ac8480' started.
+22:56:30.3531 Background process 'Worker #73d31172' started.
+22:56:30.3652 Background process 'Worker #8150e75b' started.
+22:56:30.3652 Removing outdated records from the 'Set' table...
+22:56:30.3652 Background process 'Worker #d969d015' started.
+22:56:30.3652 Background process 'Worker #d20a13e6' started.
+22:56:30.3782 Background process 'Worker #17f34124' started.
+22:56:30.3782 Removing outdated records from the 'Hash' table...
+22:56:30.3782 Background process 'Worker #f2725086' started.
+22:56:30.3782 Background process 'Worker #10c6f106' started.
+22:56:30.3782 Background process 'Worker #9386ad5f' started.
+22:56:30.3782 Background process 'Worker #c6539534' started.
+22:56:30.3932 Background process 'Worker #6ef07ee1' started.
+22:56:30.3932 Background process 'DelayedJobScheduler' started.
+22:56:30.3932 Background process 'RecurringJobScheduler' started.
+23:01:30.3276 Aggregating records in 'Counter' table...
+23:06:30.3432 Aggregating records in 'Counter' table...

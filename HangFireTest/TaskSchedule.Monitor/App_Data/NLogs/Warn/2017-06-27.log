@@ -1,0 +1,5 @@
+21:01:25.9668 Processing server takes too long to shutdown. Performing ungraceful shutdown.
+21:02:48.0101 Processing server takes too long to shutdown. Performing ungraceful shutdown.
+21:08:15.3154 Processing server takes too long to shutdown. Performing ungraceful shutdown.
+22:02:55.9210 Processing server takes too long to shutdown. Performing ungraceful shutdown.
+22:29:15.7362 Error occurred during execution of 'DelayedJobScheduler' process. Execution will be retried (attempt #3) in 00:00:04 seconds.

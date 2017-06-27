@@ -11,12 +11,14 @@ F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\r
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\roslyn\vbc.exe
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\roslyn\VBCSCompiler.exe
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\roslyn\VBCSCompiler.exe.config
+F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\NLog.config
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\TaskSchedule.Monitor.dll.config
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\TaskSchedule.Monitor.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\TaskSchedule.Monitor.pdb
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Antlr3.Runtime.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Hangfire.Core.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Hangfire.SqlServer.dll
+F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\HangFireTest.exe
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Microsoft.AI.Agent.Intercept.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Microsoft.AI.DependencyCollector.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -41,6 +43,8 @@ F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\S
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\System.Web.WebPages.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\System.Web.WebPages.Razor.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\WebGrease.dll
+F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\NLog.dll
+F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\HangFireTest.pdb
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Hangfire.Core.xml
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Hangfire.SqlServer.xml
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Microsoft.AI.DependencyCollector.xml
@@ -63,6 +67,7 @@ F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\S
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\System.Web.WebPages.Deployment.xml
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\System.Web.WebPages.Razor.xml
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\Antlr3.Runtime.pdb
+F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\NLog.xml
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\es\Hangfire.Core.resources.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\zh\Hangfire.Core.resources.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
@@ -75,8 +80,6 @@ F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\z
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\zh-Hans\System.Web.WebPages.resources.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\obj\Debug\TaskSchedule.Monitor.csprojResolveAssemblyReference.cache
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\obj\Debug\TaskSchedule.Monitor.dll
 F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\obj\Debug\TaskSchedule.Monitor.pdb
-F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\HangFireTest.exe
-F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\bin\HangFireTest.pdb
-F:\Code\CodeForPractice\HangFirePractice\HangFireTest\TaskSchedule.Monitor\obj\Debug\TaskSchedule.Monitor.csprojResolveAssemblyReference.cache

@@ -12,10 +12,10 @@ namespace HangFireTest
     /// </summary>
     public  class Class1
     {
-        [DisplayName("111")]
+        [DisplayName("每分钟执行的日志")]
         public static void NameTest()
         {
-            Console.WriteLine("Daily Job");
+            NLog.LogManager.GetLogger("11").Info("每分钟执行的日志");
         }
     }
 }

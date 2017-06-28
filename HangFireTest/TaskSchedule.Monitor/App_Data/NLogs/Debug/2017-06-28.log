@@ -1,0 +1,316 @@
+12:54:07.8531 Background process 'BackgroundProcessingServer' started.
+12:54:09.3491 Background process 'ServerHeartbeat' started.
+12:54:09.4672 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+12:54:09.4712 Background process 'ServerWatchdog' started.
+12:54:09.4902 Removing outdated records from the 'AggregatedCounter' table...
+12:54:09.4902 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+12:54:09.5353 Background process 'Worker #b14c1a81' started.
+12:54:09.5833 Aggregating records in 'Counter' table...
+12:54:09.6443 Background process 'Worker #0404ccce' started.
+12:54:09.7084 Background process 'Worker #13a7b016' started.
+12:54:09.7794 Background process 'Worker #79880226' started.
+12:54:10.1337 Background process 'Worker #59f12d78' started.
+12:54:10.2878 Background process 'Worker #4db420d8' started.
+12:54:10.2878 Background process 'Worker #f7437e18' started.
+12:54:10.4129 Background process 'Worker #c4628b69' started.
+12:54:10.5310 Background process 'Worker #45e71d29' started.
+12:54:10.5630 Background process 'Worker #6eb0c64e' started.
+12:54:10.8552 Background process 'Worker #c27e68e3' started.
+12:54:10.9132 Removing outdated records from the 'Job' table...
+12:54:11.0523 Background process 'Worker #0731c42a' started.
+12:54:11.0523 Background process 'Worker #c855b128' started.
+12:54:11.1994 Background process 'Worker #c1faaf66' started.
+12:54:11.2305 Background process 'Worker #68ff78ed' started.
+12:54:11.3485 Background process 'Worker #bc026530' started.
+12:54:11.4646 Background process 'Worker #f2432cc9' started.
+12:54:11.4646 Background process 'Worker #d33cfb35' started.
+12:54:11.4756 Removing outdated records from the 'List' table...
+12:54:11.5697 Background process 'Worker #608de2fe' started.
+12:54:11.7348 Background process 'Worker #90229ab2' started.
+12:54:11.8509 Background process 'DelayedJobScheduler' started.
+12:54:11.9980 Removing outdated records from the 'Set' table...
+12:54:12.0440 Background process 'RecurringJobScheduler' started.
+12:54:12.3232 Removing outdated records from the 'Hash' table...
+13:03:17.3296 Background process 'BackgroundProcessingServer' started.
+13:03:18.0991 Background process 'ServerHeartbeat' started.
+13:03:18.0991 Background process 'ServerWatchdog' started.
+13:03:18.0991 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+13:03:18.1111 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+13:03:18.1111 Background process 'Worker #ec52a12d' started.
+13:03:18.1812 Background process 'Worker #60344963' started.
+13:03:18.1381 Background process 'Worker #8ac3dd94' started.
+13:03:18.1481 Background process 'Worker #45ab0c40' started.
+13:03:18.1651 Removing outdated records from the 'AggregatedCounter' table...
+13:03:18.1651 Background process 'Worker #cdadef35' started.
+13:03:18.1812 Aggregating records in 'Counter' table...
+13:03:18.2182 Background process 'Worker #d5ce69ab' started.
+13:03:18.2322 Background process 'Worker #1009a00c' started.
+13:03:18.2732 Background process 'Worker #599b1e54' started.
+13:03:18.2562 Background process 'Worker #3e9f4f10' started.
+13:03:18.3032 Background process 'Worker #9594fdc7' started.
+13:03:18.3923 Background process 'Worker #cebf271a' started.
+13:03:18.3413 Background process 'Worker #2bc86a12' started.
+13:03:18.4523 Background process 'Worker #ab6a1a70' started.
+13:03:18.4223 Background process 'Worker #ebc0cfa0' started.
+13:03:18.4754 Background process 'Worker #28190038' started.
+13:03:18.5104 Background process 'Worker #92b353f8' started.
+13:03:18.5264 Background process 'Worker #339abd89' started.
+13:03:18.5444 Background process 'Worker #ba2d9ee8' started.
+13:03:18.5544 Removing outdated records from the 'Job' table...
+13:03:18.5544 Background process 'Worker #04b6cec7' started.
+13:03:18.5794 Background process 'Worker #d6f578c4' started.
+13:03:18.6025 Background process 'DelayedJobScheduler' started.
+13:03:18.6165 Background process 'RecurringJobScheduler' started.
+13:03:18.6735 Removing outdated records from the 'List' table...
+13:03:18.7676 Removing outdated records from the 'Set' table...
+13:03:18.7896 Removing outdated records from the 'Hash' table...
+13:08:18.5790 Aggregating records in 'Counter' table...
+13:13:18.6350 Aggregating records in 'Counter' table...
+13:17:25.0914 Background process 'DelayedJobScheduler' stopped.
+13:17:25.0914 Background process 'Worker #04b6cec7' stopped.
+13:17:25.0914 Background process 'Worker #d6f578c4' stopped.
+13:17:25.0954 Background process 'Worker #cebf271a' stopped.
+13:17:25.0954 Background process 'Worker #ab6a1a70' stopped.
+13:17:25.0954 Background process 'Worker #d5ce69ab' stopped.
+13:17:25.0914 Background process 'RecurringJobScheduler' stopped.
+13:17:25.0954 Background process 'Worker #92b353f8' stopped.
+13:17:25.0954 Background process 'Worker #28190038' stopped.
+13:17:25.0954 Background process 'Worker #ba2d9ee8' stopped.
+13:17:25.0954 Background process 'Worker #9594fdc7' stopped.
+13:17:25.0954 Background process 'Worker #599b1e54' stopped.
+13:17:25.0954 Background process 'Worker #ebc0cfa0' stopped.
+13:17:25.0954 Background process 'Worker #cdadef35' stopped.
+13:17:25.0954 Background process 'Worker #8ac3dd94' stopped.
+13:17:25.0954 Background process 'Worker #3e9f4f10' stopped.
+13:17:25.0954 Background process 'Worker #45ab0c40' stopped.
+13:17:25.0954 Background process 'Worker #60344963' stopped.
+13:17:25.0954 Background process 'Worker #ec52a12d' stopped.
+13:17:25.0954 Background process 'ServerHeartbeat' stopped.
+13:17:25.0954 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+13:17:25.1114 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+13:17:25.1114 Background process 'Worker #1009a00c' stopped.
+13:17:25.0954 Background process 'ServerWatchdog' stopped.
+13:17:25.1114 Background process 'Worker #339abd89' stopped.
+13:17:25.1114 Background process 'Worker #2bc86a12' stopped.
+13:17:25.7639 Background process 'BackgroundProcessingServer' stopped.
+13:18:12.1185 Background process 'BackgroundProcessingServer' started.
+13:18:12.8880 Background process 'ServerHeartbeat' started.
+13:18:12.9240 Background process 'ServerWatchdog' started.
+13:18:12.9551 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+13:18:12.9881 Removing outdated records from the 'AggregatedCounter' table...
+13:18:12.9881 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+13:18:13.0862 Aggregating records in 'Counter' table...
+13:18:13.0491 Background process 'Worker #8c2ef191' started.
+13:18:13.1552 Background process 'Worker #c69854a4' started.
+13:18:13.1882 Background process 'Worker #d5e1a601' started.
+13:18:13.2383 Removing outdated records from the 'Job' table...
+13:18:13.2743 Background process 'Worker #c8661df7' started.
+13:18:13.3443 Background process 'Worker #92cf8c49' started.
+13:18:13.3704 Removing outdated records from the 'List' table...
+13:18:13.3794 Background process 'Worker #c2b458fd' started.
+13:18:13.3794 Background process 'Worker #a5fbaccd' started.
+13:18:13.4344 Background process 'Worker #7e3983b0' started.
+13:18:13.4584 Background process 'Worker #1384d452' started.
+13:18:13.4584 Removing outdated records from the 'Set' table...
+13:18:13.5585 Background process 'Worker #6196f6c0' started.
+13:18:13.5855 Background process 'Worker #28eb390d' started.
+13:18:13.4974 Background process 'Worker #588fb642' started.
+13:18:13.6145 Background process 'Worker #fe2feecb' started.
+13:18:13.6085 Removing outdated records from the 'Hash' table...
+13:18:13.6776 Background process 'Worker #38c14b60' started.
+13:18:13.6335 Background process 'Worker #76955045' started.
+13:18:13.6666 Background process 'Worker #7365478d' started.
+13:18:13.7156 Background process 'Worker #96bc3f7b' started.
+13:18:13.6986 Background process 'Worker #19188a89' started.
+13:18:13.7596 Background process 'Worker #fd85c691' started.
+13:18:13.8327 Background process 'RecurringJobScheduler' started.
+13:18:13.7927 Background process 'Worker #d001007f' started.
+13:18:13.8057 Background process 'DelayedJobScheduler' started.
+13:18:34.0080 Background process 'BackgroundProcessingServer' started.
+13:18:34.6234 Background process 'ServerHeartbeat' started.
+13:18:34.6264 Background process 'ServerWatchdog' started.
+13:18:34.6424 Background process 'Hangfire.SqlServer.CountersAggregator' started.
+13:18:34.6834 Background process 'Worker #de0c5e9b' started.
+13:18:34.6264 Background process 'Hangfire.SqlServer.ExpirationManager' started.
+13:18:34.7085 Background process 'Worker #f8c2b88d' started.
+13:18:34.6664 Background process 'Worker #2481d5e0' started.
+13:18:34.6935 Aggregating records in 'Counter' table...
+13:18:34.7335 Removing outdated records from the 'AggregatedCounter' table...
+13:18:34.8346 Background process 'Worker #e3bf8d4f' started.
+13:18:34.7365 Background process 'Worker #5f6b802c' started.
+13:18:34.7625 Background process 'Worker #50993211' started.
+13:18:34.7915 Background process 'Worker #afa34cf9' started.
+13:18:35.0117 Background process 'Worker #c4b44299' started.
+13:18:35.0197 Removing outdated records from the 'Job' table...
+13:18:34.9026 Background process 'Worker #90f8364f' started.
+13:18:34.9626 Background process 'Worker #583bd76a' started.
+13:18:35.0387 Background process 'Worker #6a737edb' started.
+13:18:35.0747 Background process 'Worker #fcc26b9d' started.
+13:18:35.1518 Background process 'Worker #abdb6f32' started.
+13:18:35.2158 Background process 'Worker #021e5737' started.
+13:18:35.1308 Background process 'Worker #5cc2fad3' started.
+13:18:35.1308 Removing outdated records from the 'List' table...
+13:18:35.1908 Background process 'Worker #0a1977a2' started.
+13:18:35.2769 Background process 'Worker #37197b96' started.
+13:18:35.2539 Background process 'Worker #933280ea' started.
+13:18:35.2539 Background process 'Worker #5eef4531' started.
+13:18:35.2829 Background process 'Worker #42a2ee8f' started.
+13:18:35.3139 Background process 'DelayedJobScheduler' started.
+13:18:35.3139 Removing outdated records from the 'Set' table...
+13:18:35.3139 Background process 'RecurringJobScheduler' started.
+13:18:35.4360 Removing outdated records from the 'Hash' table...
+13:18:42.2538 Background process 'DelayedJobScheduler' stopped.
+13:18:42.2538 Background process 'Worker #1384d452' stopped.
+13:18:42.2538 Background process 'ServerHeartbeat' stopped.
+13:18:42.2538 Background process 'Worker #fd85c691' stopped.
+13:18:42.2538 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+13:18:42.2538 Background process 'Worker #19188a89' stopped.
+13:18:42.2538 Background process 'Worker #7365478d' stopped.
+13:18:42.2538 Background process 'Worker #76955045' stopped.
+13:18:42.2538 Background process 'Worker #7e3983b0' stopped.
+13:18:42.2538 Background process 'Worker #fe2feecb' stopped.
+13:18:42.2538 Background process 'Worker #a5fbaccd' stopped.
+13:18:42.2538 Background process 'Worker #c69854a4' stopped.
+13:18:42.2538 Background process 'Worker #c8661df7' stopped.
+13:18:42.2538 Background process 'ServerWatchdog' stopped.
+13:18:42.2538 Background process 'Worker #8c2ef191' stopped.
+13:18:42.2538 Background process 'Worker #d5e1a601' stopped.
+13:18:42.2538 Background process 'Worker #96bc3f7b' stopped.
+13:18:42.2538 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+13:18:42.2538 Background process 'Worker #d001007f' stopped.
+13:18:42.2678 Background process 'Worker #6196f6c0' stopped.
+13:18:42.2538 Background process 'RecurringJobScheduler' stopped.
+13:18:42.2678 Background process 'Worker #38c14b60' stopped.
+13:18:42.2678 Background process 'Worker #588fb642' stopped.
+13:18:42.2678 Background process 'Worker #28eb390d' stopped.
+13:18:42.2678 Background process 'Worker #92cf8c49' stopped.
+13:18:42.2678 Background process 'Worker #c2b458fd' stopped.
+13:18:42.6871 Background process 'BackgroundProcessingServer' stopped.
+13:23:34.8415 Aggregating records in 'Counter' table...
+13:28:34.8737 Aggregating records in 'Counter' table...
+13:33:34.9512 Aggregating records in 'Counter' table...
+13:38:34.9720 Aggregating records in 'Counter' table...
+13:40:50.2811 Background process 'DelayedJobScheduler' stopped.
+13:40:50.2811 Background process 'RecurringJobScheduler' stopped.
+13:40:50.2831 Background process 'Worker #de0c5e9b' stopped.
+13:40:50.2831 Background process 'ServerWatchdog' stopped.
+13:40:50.2811 Background process 'Worker #5cc2fad3' stopped.
+13:40:50.2811 Background process 'Worker #42a2ee8f' stopped.
+13:40:50.2811 Background process 'Worker #0a1977a2' stopped.
+13:40:50.2811 Background process 'Worker #933280ea' stopped.
+13:40:50.2831 Background process 'Worker #2481d5e0' stopped.
+13:40:50.2811 Background process 'Worker #37197b96' stopped.
+13:40:50.2811 Background process 'Worker #abdb6f32' stopped.
+13:40:50.2831 Background process 'Worker #583bd76a' stopped.
+13:40:50.2831 Background process 'Worker #6a737edb' stopped.
+13:40:50.2831 Background process 'Worker #90f8364f' stopped.
+13:40:50.2831 Background process 'Worker #c4b44299' stopped.
+13:40:50.2831 Background process 'Worker #afa34cf9' stopped.
+13:40:50.2831 Background process 'Worker #fcc26b9d' stopped.
+13:40:50.2831 Background process 'ServerHeartbeat' stopped.
+13:40:50.2831 Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+13:40:50.2831 Background process 'Worker #021e5737' stopped.
+13:40:50.2831 Background process 'Worker #5eef4531' stopped.
+13:40:50.2831 Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+14:05:44.2892 Background process 'BackgroundProcessingServer' started.
+14:05:44.6034 Background process 'ServerHeartbeat' started.
+14:05:44.6034 Background process 'ServerWatchdog' started.
+14:05:44.6034 Background process 'Hangfire.Redis.FetchedJobsWatcher' started.
+14:05:44.6034 Background process 'Hangfire.Redis.RedisSubscription' started.
+14:05:44.6144 Background process 'Worker #6ae4bb13' started.
+14:05:44.6144 Background process 'Worker #93bac2d1' started.
+14:05:44.6375 Background process 'Worker #87a537eb' started.
+14:05:44.6515 Background process 'Worker #57cb875b' started.
+14:05:44.6805 Background process 'Worker #0aa91823' started.
+14:05:44.6905 Background process 'Worker #fabfa17d' started.
+14:05:44.7095 Background process 'Worker #f762f6fc' started.
+14:05:44.7095 Background process 'Worker #e60a9fd2' started.
+14:05:44.7275 Background process 'Worker #fa78ee61' started.
+14:05:44.7365 Background process 'Worker #e27edff7' started.
+14:05:44.7595 Background process 'Worker #78cbb6ff' started.
+14:05:44.7826 Background process 'Worker #c8e1094c' started.
+14:05:44.7826 Background process 'Worker #1feec311' started.
+14:05:44.7826 Background process 'Worker #6d563644' started.
+14:05:44.8106 Background process 'Worker #43571ca1' started.
+14:05:44.8426 Background process 'Worker #29bf150b' started.
+14:05:44.8176 Background process 'Worker #4d65fe67' started.
+14:05:44.8176 Background process 'Worker #e19141d1' started.
+14:05:44.9197 Background process 'Worker #9ede2aa1' started.
+14:05:44.9787 Background process 'Worker #cf6145d0' started.
+14:05:45.0508 Background process 'DelayedJobScheduler' started.
+14:05:45.1138 Background process 'RecurringJobScheduler' started.
+14:10:44.7124 Acquiring the lock for the fetched list of the 'default' queue...
+14:10:44.7720 Looking for timed out jobs in the 'default' queue...
+14:10:44.8010 No timed out jobs were found in the 'default' queue
+14:11:44.8194 Acquiring the lock for the fetched list of the 'default' queue...
+14:11:44.8825 Looking for timed out jobs in the 'default' queue...
+14:11:44.9035 No timed out jobs were found in the 'default' queue
+14:12:44.9227 Acquiring the lock for the fetched list of the 'default' queue...
+14:12:44.9457 Looking for timed out jobs in the 'default' queue...
+14:12:44.9667 No timed out jobs were found in the 'default' queue
+14:13:44.9838 Acquiring the lock for the fetched list of the 'default' queue...
+14:13:44.9977 Looking for timed out jobs in the 'default' queue...
+14:13:45.0137 No timed out jobs were found in the 'default' queue
+14:14:45.0302 Acquiring the lock for the fetched list of the 'default' queue...
+14:14:45.0452 Looking for timed out jobs in the 'default' queue...
+14:14:45.0593 No timed out jobs were found in the 'default' queue
+14:15:45.0729 Acquiring the lock for the fetched list of the 'default' queue...
+14:15:45.0899 Looking for timed out jobs in the 'default' queue...
+14:15:45.1069 No timed out jobs were found in the 'default' queue
+14:16:45.1244 Acquiring the lock for the fetched list of the 'default' queue...
+14:16:45.1404 Looking for timed out jobs in the 'default' queue...
+14:16:45.1564 No timed out jobs were found in the 'default' queue
+14:17:45.1728 Acquiring the lock for the fetched list of the 'default' queue...
+14:17:45.2458 Looking for timed out jobs in the 'default' queue...
+14:17:45.2598 No timed out jobs were found in the 'default' queue
+14:18:45.2743 Acquiring the lock for the fetched list of the 'default' queue...
+14:18:45.2923 Looking for timed out jobs in the 'default' queue...
+14:18:45.3104 No timed out jobs were found in the 'default' queue
+14:19:45.3309 Acquiring the lock for the fetched list of the 'default' queue...
+14:19:45.3589 Looking for timed out jobs in the 'default' queue...
+14:19:45.3799 No timed out jobs were found in the 'default' queue
+14:20:45.3991 Acquiring the lock for the fetched list of the 'default' queue...
+14:20:45.4151 Looking for timed out jobs in the 'default' queue...
+14:20:45.4331 No timed out jobs were found in the 'default' queue
+14:21:45.4496 Acquiring the lock for the fetched list of the 'default' queue...
+14:21:45.4676 Looking for timed out jobs in the 'default' queue...
+14:21:45.4827 No timed out jobs were found in the 'default' queue
+14:22:45.4992 Acquiring the lock for the fetched list of the 'default' queue...
+14:22:45.5132 Looking for timed out jobs in the 'default' queue...
+14:22:45.5292 No timed out jobs were found in the 'default' queue
+14:23:45.5647 Acquiring the lock for the fetched list of the 'default' queue...
+14:23:45.5647 Looking for timed out jobs in the 'default' queue...
+14:23:45.5947 No timed out jobs were found in the 'default' queue
+14:24:45.6122 Acquiring the lock for the fetched list of the 'default' queue...
+14:24:45.6272 Looking for timed out jobs in the 'default' queue...
+14:24:45.6272 No timed out jobs were found in the 'default' queue
+14:25:45.6556 Acquiring the lock for the fetched list of the 'default' queue...
+14:25:45.6696 Looking for timed out jobs in the 'default' queue...
+14:25:45.6867 No timed out jobs were found in the 'default' queue
+14:26:45.7012 Acquiring the lock for the fetched list of the 'default' queue...
+14:26:45.7152 Looking for timed out jobs in the 'default' queue...
+14:26:45.7302 No timed out jobs were found in the 'default' queue
+14:27:45.7438 Acquiring the lock for the fetched list of the 'default' queue...
+14:27:45.7608 Looking for timed out jobs in the 'default' queue...
+14:27:45.7818 No timed out jobs were found in the 'default' queue
+14:28:45.7984 Acquiring the lock for the fetched list of the 'default' queue...
+14:28:45.8735 Looking for timed out jobs in the 'default' queue...
+14:28:45.8915 No timed out jobs were found in the 'default' queue
+14:29:45.9120 Acquiring the lock for the fetched list of the 'default' queue...
+14:29:45.9891 Looking for timed out jobs in the 'default' queue...
+14:29:46.0031 No timed out jobs were found in the 'default' queue
+14:30:46.0207 Acquiring the lock for the fetched list of the 'default' queue...
+14:30:46.0407 Looking for timed out jobs in the 'default' queue...
+14:30:46.0597 No timed out jobs were found in the 'default' queue
+14:31:46.0791 Acquiring the lock for the fetched list of the 'default' queue...
+14:31:46.0941 Looking for timed out jobs in the 'default' queue...
+14:31:46.1091 No timed out jobs were found in the 'default' queue
+14:32:46.1242 Acquiring the lock for the fetched list of the 'default' queue...
+14:32:46.1401 Looking for timed out jobs in the 'default' queue...
+14:32:46.1561 No timed out jobs were found in the 'default' queue
+14:33:46.1706 Acquiring the lock for the fetched list of the 'default' queue...
+14:33:46.1916 Looking for timed out jobs in the 'default' queue...
+14:33:46.2136 No timed out jobs were found in the 'default' queue
+14:34:46.2367 Acquiring the lock for the fetched list of the 'default' queue...
+14:34:46.3157 Looking for timed out jobs in the 'default' queue...
+14:34:46.3387 No timed out jobs were found in the 'default' queue

@@ -1,6 +1,8 @@
 using Hangfire;
+using Hangfire.Redis;
 using Microsoft.Owin;
 using Owin;
+using System;
 
 [assembly: OwinStartup(typeof(TaskSchedule.Monitor.Startup))]
 
@@ -17,8 +19,16 @@ namespace TaskSchedule.Monitor
     {
         public void Configuration(IAppBuilder app)
         {
+            var options = new RedisStorageOptions
+            {
+                Prefix = "hangfire:",
+                InvisibilityTimeout = TimeSpan.FromHours(3)
+            };
             GlobalConfiguration.Configuration
-                .UseSqlServerStorage("Server=.;User ID=sa;Password=123456;database=HangFireTest;Connection Reset=False;");
+              //.UseColouredConsoleLogProvider()
+              .UseRedisStorage("localhost,password=yjq", options: options)
+              //.UseSqlServerStorage("Server=.;User ID=sa;Password=123456;database=HangFireTest;Connection Reset=False;")
+              ;
 
             app.UseHangfireDashboard();
             app.UseHangfireServer();
